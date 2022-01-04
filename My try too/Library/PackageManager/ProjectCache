@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637769082081649440
+      ticks: 637769091270228276
     m_Hash: 68581364
   m_LockFileStatus:
     m_FilePath: E:/First_project/My try too/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637769082177167702
+      ticks: 637769091270228276
     m_Hash: 3135032529
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
